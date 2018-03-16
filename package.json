@@ -6,6 +6,7 @@
     "dev": "./node_modules/.bin/node-sass src/scss/line-awesome.scss > css/line-awesome.css",
     "prod": "./node_modules/.bin/node-sass --source-comments false --output-style compressed src/scss/line-awesome.scss > css/line-awesome.min.css"
   },
+  "style": "css/line-awesome.css",
   "keywords": [
     "FontAwesome",
     "LineAwesome",
