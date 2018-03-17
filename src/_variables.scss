@@ -8,6 +8,10 @@ $la-li-width: (20em / 14) !default;
 $la-font-name: "LineAwesome" !default;
 $la-version: "1.1.";
 
+@function la-content($la-var) {
+    @return unquote("\"#{ $la-var }\"");
+  }
+
 $la-500px: \f100;
 $la-adjust: \f101;
 $la-adn: \f102;
