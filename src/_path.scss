@@ -13,6 +13,6 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
     @font-face {
         font-family: #{$la-font-name};
-        src: url('{#{$la-font-path}/line-awesome.svg?v=#{$la-version}#fa') format("svg");
+        src: url('#{$la-font-path}/line-awesome.svg?v=#{$la-version}#fa') format("svg");
     }
 }
