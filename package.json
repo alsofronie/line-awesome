@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Line Awesome by Icon8, packaged in scss. A drop-in replacement for FontAwesome.",
   "scripts": {
-    "dev": "./node_modules/.bin/node-sass src/scss/line-awesome.scss > css/line-awesome.css",
-    "prod": "./node_modules/.bin/node-sass --source-comments false --output-style compressed src/scss/line-awesome.scss > css/line-awesome.min.css"
+    "dev": "./node_modules/.bin/node-sass src/line-awesome.scss > css/line-awesome.css",
+    "prod": "./node_modules/.bin/node-sass --source-comments false --output-style compressed src/line-awesome.scss > css/line-awesome.min.css"
   },
   "main": "src/line-awesome.scss",
   "style": "css/line-awesome.css",
