@@ -8,7 +8,7 @@
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   @font-face {
     font-family: LineAwesome;
-    src: url("{../fonts/line-awesome.svg?v=1.1.#fa") format("svg"); } }
+    src: url("../fonts/line-awesome.svg?v=1.1.#fa") format("svg"); } }
 
 .fa {
   display: inline-block;

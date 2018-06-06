@@ -1,6 +1,6 @@
 {
   "name": "line-awesome",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Line Awesome by Icon8, packaged in scss. A drop-in replacement for FontAwesome.",
   "scripts": {
     "dev": "./node_modules/.bin/node-sass src/line-awesome.scss > css/line-awesome.css",
